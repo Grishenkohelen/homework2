@@ -1,0 +1,26 @@
+body {
+    background: #98b5e7;
+    text-align: center;
+
+}
+
+p.target {
+    color: #1212af;
+    font-size: 25px;
+}
+
+p.name {
+    font-size: 35px;
+    color: #4c2079;
+}
+
+img {
+    border: 5px solid darkslateblue;
+}
+
+.point {
+    text-align: left;
+    font-size: 20px;
+    color: blueviolet;
+
+}
